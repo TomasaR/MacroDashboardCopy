@@ -1,0 +1,12 @@
+- 2026-11-05 18:00: 73 series
+- 2026-11-06 09:41: 75 series
+- 2026-11-06 16:56: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-09 19:48: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-10 17:26: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-11 17:11: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-12 17:49: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-13 17:23: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-16 19:32: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-17 18:38: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-18 18:16: 75 series; errores: paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
+- 2026-11-19 18:24: 108 series; errores: Series conservadas sin actualización en este catálogo: aux_cr_cons, aux_cr_prod, aux_cr_viv, aux_du_cons, aux_du_prod, aux_du_viv, clab_etcl, cred_cons_yoy, cred_dudosidad, cred_prod_yoy, cred_saldo, dep_plazo_yoy, dep_saldo, dep_vista_yoy, dud_cons, dud_prod, dud_viv, nop_cons, nop_cons_yoy, nop_snf, nop_snf_yoy, nop_viv, nop_viv_yoy, sal_conv, sal_etcl, sal_ord, tipo_cons, tipo_dep_hog, tipo_dep_snf, tipo_dep_vista, tipo_snf, tipo_viv_saldo; paro_reg (total): No module named 'pandas'; paro_reg_yoy (total): No module named 'pandas'
